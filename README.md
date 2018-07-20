@@ -12,8 +12,7 @@ We only take large-scale open source data sets into our list.
 
 ## Translation
 
-1. [AI Challenger-英中翻译](https://challenger.ai/datasets/translation):The largest English-Chinese bilingual dataset for spoken language.
-2. [WMT Translation Dataset](http://www.statmt.org/wmt16/translation-task.html):  Machine Translation Dataset with different language.
+1. [WMT Translation Dataset](http://www.statmt.org/wmt16/translation-task.html):  Machine Translation Dataset with different language.
 
 ## Information Retrieval 
 
@@ -117,8 +116,7 @@ We only take large-scale open source data sets into our list.
 
 ## Key-Point
 
-1. [AI Challenger-人体骨骼关键点](https://challenger.ai/datasets/keypoint)
-2. [MS-COCO Keypoint Detection Dataset](http://cocodataset.org/#keypoints-2018)
+1. [MS-COCO Keypoint Detection Dataset](http://cocodataset.org/#keypoints-2018)
 
 ## Speech Recognition
 
