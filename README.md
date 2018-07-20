@@ -6,6 +6,10 @@ We only take large-scale open source data sets into our list.
 
 1. [Lakh Pianoroll Dataset](https://salu133445.github.io/lakh-pianoroll-dataset/) a collection of 174,154 [multi-track piano-rolls](https://salu133445.github.io/lakh-pianoroll-dataset/data) derived from the[Lakh MIDI Dataset](http://colinraffel.com/projects/lmd/) (LMD).
 
+## Video 
+
+1. [Youtube8m](https://research.google.com/youtube8m/) :High-quality machine-generated annotations from a diverse vocabulary of 3,800+ visual entities which comes with precomputed audio-visual features.
+
 ## Translation
 
 1. [AI Challenger-英中翻译](https://challenger.ai/datasets/translation):The largest English-Chinese bilingual dataset for spoken language.
@@ -48,6 +52,12 @@ We only take large-scale open source data sets into our list.
 7. [WebVision](https://www.vision.ee.ethz.ch/webvision/): Images crawled from the Flickr website and Google Images search. Large Scale with huge domain bias. 
 8. [AI Challenger-图像属性数据集](https://challenger.ai/datasets/lad2018)
 9. [AI Challenger-图像中文描述](https://challenger.ai/datasets/caption)
+
+## Fine-Grained Visual Classification
+
+1. [Fine-Grained Visual Classification of Aircraft (FGVC-Aircraft)](http://www.robots.ox.ac.uk/~vgg/data/fgvc-aircraft/) 
+2. [iNaturalist Challenge at FGVC 2017](https://www.kaggle.com/c/inaturalist-challenge-at-fgvc-2017) : Dataset with 5,089 species with extremely difficult for human to accurately classify due to their visual similarity.
+3. [iMaterialist Challenge at FGVC 2017](https://www.kaggle.com/c/imaterialist-challenge-FGVC2017) : Dataset designed for automatic product recognition for very similar visual object.
 
 ## Semantic Segmentation
 
