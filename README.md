@@ -92,6 +92,11 @@ We only take large-scale open source data sets into our list.
 1. [MegaFace](http://megaface.cs.washington.edu/) : The largest publicly available facial recognition dataset. 
 2. [MSR Image Recognition Challenge](https://www.microsoft.com/en-us/research/project/ms-celeb-1m-challenge-recognizing-one-million-celebrities-real-world/) : Large Scale(10M) celebrity face images for the top 100K celebrities, which can be used to train and evaluate both face identification and verification algorithms. 
 
+## Facial Landmark
+
+1. [300-W](https://ibug.doc.ic.ac.uk/resources/300-W/) :provides annotations for 3837 face images with 68 landmarks.
+2. [300-WV](https://ibug.doc.ic.ac.uk/resources/300-VW/) : 300 Videos in the Wild (300-VW) Facial Landmark Tracking  
+
 ## Scene Classification 
 
 1. [Place365](http://places2.csail.mit.edu/) : the goal is to build a system for high-level visual understanding tasks.
