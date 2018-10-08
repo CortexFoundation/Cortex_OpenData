@@ -30,6 +30,11 @@ We only take large-scale open source data sets into our list.
 2. [VoxForge](http://voxforge.org/). Project to build an open source database for speech recognition.
 3. [LibriSpeech ASR corpus](http://www.openslr.org/12/). Large collection of English audiobooks taken from [LibriVox](https://librivox.org/).
 
+## Audio Content Analysis
+
+1. [Google AudioSet](https://research.google.com/audioset/index.html) : Google's large-scale dataset of manually annotated audio events that consists of an expanding ontology of 632 audio event classes and a collection of 2,084,320 human-labeled 10-second sound clips drawn from YouTube videos.
+2. [ExtraSensory Dataset](http://extrasensory.ucsd.edu/) : Behavioral context recognition over 300k examples (minutes) from 60 users in wild.
+
 ## Document Summarization
 
 1. [Legal Case Reports Data Set](https://archive.ics.uci.edu/ml/datasets/Legal+Case+Reports). A collection of 4 thousand legal cases and their summarization.
