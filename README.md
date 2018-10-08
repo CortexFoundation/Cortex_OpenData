@@ -2,10 +2,6 @@
 
 We only take large-scale open source data sets into our list.
 
-## Music Generation
-
-1. [Lakh Pianoroll Dataset](https://salu133445.github.io/lakh-pianoroll-dataset/) a collection of 174,154 [multi-track piano-rolls](https://salu133445.github.io/lakh-pianoroll-dataset/data) derived from the[Lakh MIDI Dataset](http://colinraffel.com/projects/lmd/) (LMD).
-
 ## Video 
 
 1. [Youtube8m](https://research.google.com/youtube8m/) :High-quality machine-generated annotations from a diverse vocabulary of 3,800+ visual entities which comes with precomputed audio-visual features.
@@ -34,6 +30,7 @@ We only take large-scale open source data sets into our list.
 
 1. [Google AudioSet](https://research.google.com/audioset/index.html) : Google's large-scale dataset of manually annotated audio events that consists of an expanding ontology of 632 audio event classes and a collection of 2,084,320 human-labeled 10-second sound clips drawn from YouTube videos.
 2. [ExtraSensory Dataset](http://extrasensory.ucsd.edu/) : Behavioral context recognition over 300k examples (minutes) from 60 users in wild.
+3. [Lakh Pianoroll Dataset](https://salu133445.github.io/lakh-pianoroll-dataset/) a collection of 174,154 [multi-track piano-rolls](https://salu133445.github.io/lakh-pianoroll-dataset/data) derived from the[Lakh MIDI Dataset](http://colinraffel.com/projects/lmd/) (LMD).
 
 ## Document Summarization
 
